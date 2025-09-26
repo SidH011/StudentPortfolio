@@ -7,7 +7,7 @@ comments: true
 
 ## As a conversation Starter
 
-Here are some places I have lived.
+Here are the places which I have lived in.
 
 <comment>
 Flags are made using Wikipedia images
@@ -60,7 +60,7 @@ Flags are made using Wikipedia images
     // 2. Define a JavaScript object for our http source and our data rows for the Living in the World grid
     var http_source = "https://upload.wikimedia.org/wikipedia/commons/";
     var living_in_the_world = [
-        {"flag": "0/01/Flag_of_California.svg", "greeting": "Hey", "description": "California"},
+        {"flag": "0/01/Flag_of_California.svg", "greeting": "", "description": "California"},
     ];
 
     // 3a. Consider how to update style count for size of container
@@ -96,27 +96,36 @@ Flags are made using Wikipedia images
 
 ### Journey through Life
 
-Here is what I did at those places
+Here is my life story as of now
 
-- 🏫 Born and raised in San Diego, CA
-- 🏫 Completed Elementary and middle school at Design39, 2014-25
-- 🇮🇳 Son of immigrants from India
-- 🎾 Got introduced to tennis at the age of 5 - avid tennis fan and player
-- 💼 1x CyberPatriot National Finalist (My team placed 2nd out of 700+ teams) in 2025
-- 🎓 Placed Top 5% nationally in AMC 8 2024
-- 🏏 Big cricket fan (supports RCB)
+- 🏠 Born and raised in San Diego, California
+- 🏫 Went to Stone Ranch Elementary, Oak Valley Middle, and now currently a freshman at Del Norte High School
+- ⚽ Started playing soccer at the age of 5, fell in love with not only the sport but all sports in general
+- 🖥️ Both my parents are engineers, so was introduced to tech and stem at an early age
+- 🔒 Joined CyberAegis in 7th grade, and this previous year won the national championship in Washington, D.C. (6 of 5526 students nationwide, 1 of 921 teams)
+- 🎓 Hoping to pursue a career in software engineering, in specific cyber security
 
 ### Culture, Family, and Fun
 
 Everything for me, as for many others, revolves around family and faith.
 
-- My family is from Bihar, India. I actively follow visit India, speak Hindi, and practice Hinduism.
-- I have a large extended family. In addition to my parents and sister, I have 11 first cousins and 3 second cousins - all of whom I meet often.
-- The gallery of pics has some of me and my CyberPatriot team last year.
+- I am born and raised in San Diego, but both my parents were born and raised in Bhubuneshwar, Odisha, India 🇮🇳
+- My immediate family consists of my 2 parents, alongside my brother, and myself
 
-<comment>
+<!-- <comment>
 Gallery of Pics, scroll to the right for more ...
 </comment>
 <div class="image-gallery">
-  <img src="{{site.baseurl}}/images/about/Headshot.JPG" alt="Image 1" title="Me">
-  <img src="{{site.baseurl}}/images/about/CyberAegis-Stardust.JPG" alt="Image 2" title="My CyberPatriot team">
+  <img src="{{site.baseurl}}/images/about/missionary.jpg" alt="Image 1">
+  <img src="{{site.baseurl}}/images/about/john_tamara.jpg" alt="Image 2">
+  <img src="{{site.baseurl}}/images/about/tamara_fam.jpg" alt="Image 3">
+  <img src="{{site.baseurl}}/images/about/surf.jpg" alt="Image 4">
+  <img src="{{site.baseurl}}/images/about/john_lora.jpg" alt="Image 5">
+  <img src="{{site.baseurl}}/images/about/lora_fam.jpg" alt="Image 6">
+  <img src="{{site.baseurl}}/images/about/lora_fam2.jpg" alt="Image 7">
+  <img src="{{site.baseurl}}/images/about/pj_party.jpg" alt="Image 8">
+  <img src="{{site.baseurl}}/images/about/trent_family.png" alt="Image 9">
+  <img src="{{site.baseurl}}/images/about/claire.jpg" alt="Image 10">
+  <img src="{{site.baseurl}}/images/about/grandkids.jpg" alt="Image 11">
+  <img src="{{site.baseurl}}/images/about/farm.jpg" alt="Image 12">
+</div> -->
